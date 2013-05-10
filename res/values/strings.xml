@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Miptracker</string>
+    <string name="my_ip">0.0.0.0</string>
+    <string name="menu_settings">Settings</string>
+    <string name="check_btn">Get my IP address!</string>
+    <string name="about_text">Miptracker is a super simple android application that you can use to get your current external IP address. 2013 Eka Putra - http://balitechy.com</string>
+
+</resources>
